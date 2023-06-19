@@ -1,0 +1,15 @@
+C:\Users\AslanWilde\source\repos\primerapp\bin\Debug\net6.0\primerapp.exe
+C:\Users\AslanWilde\source\repos\primerapp\bin\Debug\net6.0\primerapp.deps.json
+C:\Users\AslanWilde\source\repos\primerapp\bin\Debug\net6.0\primerapp.runtimeconfig.json
+C:\Users\AslanWilde\source\repos\primerapp\bin\Debug\net6.0\primerapp.dll
+C:\Users\AslanWilde\source\repos\primerapp\bin\Debug\net6.0\primerapp.pdb
+C:\Users\AslanWilde\source\repos\primerapp\obj\Debug\net6.0\primerapp.csproj.AssemblyReference.cache
+C:\Users\AslanWilde\source\repos\primerapp\obj\Debug\net6.0\primerapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AslanWilde\source\repos\primerapp\obj\Debug\net6.0\primerapp.AssemblyInfoInputs.cache
+C:\Users\AslanWilde\source\repos\primerapp\obj\Debug\net6.0\primerapp.AssemblyInfo.cs
+C:\Users\AslanWilde\source\repos\primerapp\obj\Debug\net6.0\primerapp.csproj.CoreCompileInputs.cache
+C:\Users\AslanWilde\source\repos\primerapp\obj\Debug\net6.0\primerapp.dll
+C:\Users\AslanWilde\source\repos\primerapp\obj\Debug\net6.0\refint\primerapp.dll
+C:\Users\AslanWilde\source\repos\primerapp\obj\Debug\net6.0\primerapp.pdb
+C:\Users\AslanWilde\source\repos\primerapp\obj\Debug\net6.0\primerapp.genruntimeconfig.cache
+C:\Users\AslanWilde\source\repos\primerapp\obj\Debug\net6.0\ref\primerapp.dll
